@@ -1,0 +1,21 @@
+
+h2{
+    font-size: 2rem;
+}
+#container{
+    display: flex;
+justify-content: center;
+}
+.content-container{  
+display: flex;
+justify-content: center;
+}
+.content-icerisi{
+    width: 500px;
+    /* border: 1px red solid; */
+    color:  rgb(228, 228, 228);
+}
+.veri-cervece{
+background-color: rgba(0, 0, 0, 0.356);
+border-radius: 8px;
+}

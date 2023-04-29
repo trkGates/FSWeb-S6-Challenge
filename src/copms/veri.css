@@ -1,0 +1,41 @@
+.veriler{
+    display: inline;
+    text-align: start;
+}
+.veri-divi{
+    margin: 10px;
+    padding: 10px;
+display: block;
+    border: 1px rgb(0, 131, 7) solid;
+    border-radius: 5px;
+}
+.veri-divi-1{
+    display: flex;
+    justify-content: space-between;
+}
+.cerceve{
+    font-size: 1.2rem;
+    font-weight: bolder;
+    padding: 5px 15px;
+border: 1px;
+color: rgb(59, 11, 104);
+border-color:rgba(240, 248, 255, 0);
+background-color: rgba(99, 99, 99, 0.685);
+border-style: solid;
+border-bottom-left-radius: 25px;
+border-top-right-radius: 25px;
+border-bottom-right-radius: 10px;
+border-top-left-radius:10px ;
+
+}
+.ana-div{
+    padding: 10px 0px;
+
+    border-radius: 10px;
+}
+.veriler-1{
+display: flex;
+}
+.veriler-1 p{
+    padding: 10px;
+}

@@ -1,7 +1,10 @@
 .App {
   text-align: center;
+  background-color: rgba(0, 0, 0, 0.24);
+height: 100vh;
 }
 .Header {
+  font-size: 9rem;
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
 }
